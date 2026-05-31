@@ -1,0 +1,4 @@
+# Brookhaven RP Utility - Dependencies
+# No external dependencies required for this project.
+# Python 3.8+ is recommended.
+# This file is kept for future package additions.
